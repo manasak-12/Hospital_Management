@@ -33,7 +33,8 @@ Ensure you have the following installed:
    ```
 ## Snapshots
 
-![Image1]("C:\Users\Manasa\Pictures\Screenshots\Screenshot 2025-02-16 233303.png")  
+![Image1]("https://github.com/manasak-12/Hospital_Management/blob/main/Image2.png")  
+![Image2]("https://github.com/manasak-12/Hospital_Management/blob/main/Image1.png")  
 
 ## Usage
 - **Patients Tab:** Add, search, update, and delete patient records.
