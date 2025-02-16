@@ -33,8 +33,10 @@ Ensure you have the following installed:
    ```
 ## Snapshots
 
-![Image1]("Image2.png")  
-![Image2]("Image1.png")  
+![Screenshot 1](Image2.png)
+*Figure 1: Main interface of the wallet application* 
+![Screenshot 2](Image1.png)
+*Figure 1: Main interface of the wallet application*  
 
 ## Usage
 - **Patients Tab:** Add, search, update, and delete patient records.
