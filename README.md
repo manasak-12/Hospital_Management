@@ -31,6 +31,9 @@ Ensure you have the following installed:
    ```sh
    python main.py
    ```
+## Snapshots
+
+![Image1]("C:\Users\Manasa\Pictures\Screenshots\Screenshot 2025-02-16 233303.png")  
 
 ## Usage
 - **Patients Tab:** Add, search, update, and delete patient records.
