@@ -34,9 +34,9 @@ Ensure you have the following installed:
 ## Snapshots
 
 ![Screenshot 1](Image2.png)
-*Figure 1: Main interface of the wallet application* 
+*Figure 1: Patient frame* 
 ![Screenshot 2](Image1.png)
-*Figure 1: Main interface of the wallet application*  
+*Figure 1: Medical record frame*  
 
 ## Usage
 - **Patients Tab:** Add, search, update, and delete patient records.
