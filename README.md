@@ -33,10 +33,12 @@ Ensure you have the following installed:
    ```
 ## Snapshots
 
-![Screenshot 1](Image2.png)
+![Screenshot 1](image_1.png)
 *Figure 1: Patient frame* 
-![Screenshot 2](Image1.png)
-*Figure 1: Medical record frame*  
+![Screenshot 2](image_2.png)
+*Figure 2: Doctor frame*  
+![Screenshot 3](image_3.png)
+*Figure 3: Medical Records frame*  
 
 ## Usage
 - **Patients Tab:** Add, search, update, and delete patient records.
